@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 title: Welcome to my page.
 
 ## Welcome to GitHub Pages
